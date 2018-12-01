@@ -63,9 +63,9 @@
 
 **测评整体结果**
 
-![image](https://user-images.githubusercontent.com/24793419/49325675-6e01d400-f581-11e8-8ed5-938f62a8eb6f.png)
-
-![image](https://user-images.githubusercontent.com/24793419/49325691-aef9e880-f581-11e8-85ff-33ba4f2ba00e.png)
+<div align=center><img src="https://user-images.githubusercontent.com/24793419/49325675-6e01d400-f581-11e8-8ed5-938f62a8eb6f.png" width = 70% height = 70% />
+<img src="https://user-images.githubusercontent.com/24793419/49325691-aef9e880-f581-11e8-85ff-33ba4f2ba00e.png)" width = 70% height = 70% />
+<div align=left>
 
 您的霍兰德代码最有可能是ICR （调研13.6%+传统13.6%+实际11.4%），霍兰德代号及相关典型职业是: I(调查型) 。[详细报告](http://www.apesk.com/mensa/common_report_getid/holland2_report_getid.asp?id=2670538)
 
