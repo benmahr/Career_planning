@@ -42,9 +42,11 @@
 ### 2.3.2.1 [JobKeys职业兴趣测评](http://ecareer.psykeys.cn/Default.aspx)
 
 **测评整体结果**
+<div align=center>
 
 ![image](https://user-images.githubusercontent.com/24793419/49325548-748f4c00-f57f-11e8-9f41-9c69b935d18d.png)
 
+<div align=left>
 **测评结果解读**
 
 常规型C：7分，现实型R：7分，社会型S：4分，管理型E：7分，艺术型R：6分，研究型I：6分。
