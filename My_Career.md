@@ -22,7 +22,9 @@
 
 [JobKeys在线职业测评](http://ecareer.psykeys.cn/Default.aspx)
 
-![image](https://user-images.githubusercontent.com/24793419/49325366-1745cb80-f57c-11e8-9b45-14daeca21248.png)
+<div align=center><img src="https://user-images.githubusercontent.com/24793419/49325366-1745cb80-f57c-11e8-9b45-14daeca21248.png" width = 70% height = 70% />
+<div align=left>
+
 
 总分是[41],你的得分处于较低水平，即你以后的职业生涯发展会较好，基本没有受到其它因素的阻碍。我们将具体分析你在每一个维度上的得分，让你了解各方面因素对你职业生涯发展的影响情况。
 
