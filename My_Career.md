@@ -49,6 +49,7 @@
 ![image](https://user-images.githubusercontent.com/24793419/49325548-748f4c00-f57f-11e8-9f41-9c69b935d18d.png)
 
 <div align=left>
+  
 **测评结果解读**
 
 常规型C：7分，现实型R：7分，社会型S：4分，管理型E：7分，艺术型R：6分，研究型I：6分。
@@ -59,7 +60,7 @@
 
 一般来说，最理想的还是将对不同方面的兴趣区分出不同水平的层次，形成有主有次、有重有轻的格局，这样能更好地、更经济而科学地分配有限的心理资源，从而确保在工作、生活最重要的方面的心理投入。
 
-### 2.3.2.1 [APESK才储霍兰德测评](http://www.apesk.com/holland/index.html)
+### 2.3.2.2 [APESK才储SDS版60题霍兰德测评](http://www.apesk.com/holland/index.html)
 
 **测评整体结果**
 
@@ -75,7 +76,22 @@
 - 典型职业：喜欢智力的、抽象的、分析的、独立的定向任务，要求具备智力或分析才能，并将其用于观察、估测、衡量、形成理论、最终解决问题的工作，并具备相应的能力。如科学研究人员、教师、工程师、电脑编程人员、医生、系统分析员。
 - 适合的现代职业：网络技术开发、网络程序员、结构工程师、数学家、统计师、科技杂志编辑、财务评估师、技术经理、积木拼砌设计师、咨询顾问、研究员；
 - 适合的传统职业：气象学者、生物学者、天文学家、药剂师、动物学者、化学家、科学报刊编辑、地质学者、植物学者、物理学者、数学家、实验员、科研人员、科技作者；
--  I 开头的其他相关职业列表：IAS、IAR、ISE、ISC、ISR、ISA、IES、IEC、ICR、IRA、IRS、IRE、IRC等。
+- I 开头的其他相关职业列表：IAS、IAR、ISE、ISC、ISR、ISA、IES、IEC、ICR、IRA、IRS、IRE、IRC等。
+
+### 2.3.2.3 [APESK才储原书版180题霍兰德测评](http://www.apesk.com/holland/index.html)
+
+**测评整体结果**
+
+![image](https://user-images.githubusercontent.com/24793419/49326293-fa64c480-f58a-11e8-97ab-eff87b295c90.png)
+![image](https://user-images.githubusercontent.com/24793419/49326300-1bc5b080-f58b-11e8-955a-715ea84e4051.png)
+
+
+霍兰德代码最有可能是IES （调研56.8%+企业56.8%+社会47.7%）,霍兰德代号及相关典型职业是: I(调查型)。[详细报告](http://www.apesk.com/mensa/common_report_getid/holland1_report_getid.asp?id=1132881)
+
+**测评结果解读**
+
+- 适合的现代职业：基金调研员、基金经理、私人侦探、统计学家、政治学家、医生、股票分析师、电子工程师、调研员、工程咨询顾问、税务筹划师；
+- 其他解读同上。
 
 
 ### 2.4 识别自己的模式
