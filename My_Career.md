@@ -36,7 +36,8 @@
 
 效度久经考验的「霍兰德职业兴趣测试」,霍兰德由六个维度构成，分别对应着字母 RIASEC .你将获得这 6 位字母按得分从高到低的排序结果，如 ASECRI ，ECASRI 等，以六张形雷达图、柱形图等方式呈现。
 
-<img src="https://user-images.githubusercontent.com/24793419/49325535-1f533a80-f57f-11e8-80b4-de3accaf1d38.png" width = 70% height = 70% />
+<div align=center><img src="https://user-images.githubusercontent.com/24793419/49325535-1f533a80-f57f-11e8-80b4-de3accaf1d38.png" width = 70% height = 70% />
+<div align=left>
   
 ### 2.3.2.1 [JobKeys职业兴趣测评](http://ecareer.psykeys.cn/Default.aspx)
 
