@@ -16,7 +16,7 @@
 
 职业发展阻碍因素是指不利于人们职业生涯发展的各项因素，这些因素造成了职业生涯发展困境长久无法突破，即职业发展的瓶颈。通过职业生涯发展阻碍测验，可以帮助你及时地发现阻碍自己职业生涯发展的因素，并有效地作出适当的处理。
 
-<div align=center>!
+<div align=center>
 <img src="https://user-images.githubusercontent.com/24793419/49325524-bbc90d00-f57e-11e8-9e47-784f42889209.png" width = 50% height = 50% />
 
 **测评整体结果**
