@@ -17,7 +17,7 @@
 职业发展阻碍因素是指不利于人们职业生涯发展的各项因素，这些因素造成了职业生涯发展困境长久无法突破，即职业发展的瓶颈。通过职业生涯发展阻碍测验，可以帮助你及时地发现阻碍自己职业生涯发展的因素，并有效地作出适当的处理。
 
 <div align=center><img src="https://user-images.githubusercontent.com/24793419/49325524-bbc90d00-f57e-11e8-9e47-784f42889209.png" width = 70% height = 70% />
-
+<div align=left>
 **测评整体结果**
 
 [JobKeys在线职业测评](http://ecareer.psykeys.cn/Default.aspx)
@@ -36,13 +36,13 @@
 
 效度久经考验的「霍兰德职业兴趣测试」,霍兰德由六个维度构成，分别对应着字母 RIASEC .你将获得这 6 位字母按得分从高到低的排序结果，如 ASECRI ，ECASRI 等，以六张形雷达图、柱形图等方式呈现。
 
-<div align=center><img src="https://user-images.githubusercontent.com/24793419/49325535-1f533a80-f57f-11e8-80b4-de3accaf1d38.png" width = 70% height = 70% />
+<img src="https://user-images.githubusercontent.com/24793419/49325535-1f533a80-f57f-11e8-80b4-de3accaf1d38.png" width = 70% height = 70% />
   
 ### 2.3.2.1 [JobKeys职业兴趣测评](http://ecareer.psykeys.cn/Default.aspx)
 
 **测评整体结果**
 
-<div align=center>![image](https://user-images.githubusercontent.com/24793419/49325548-748f4c00-f57f-11e8-9f41-9c69b935d18d.png)
+![image](https://user-images.githubusercontent.com/24793419/49325548-748f4c00-f57f-11e8-9f41-9c69b935d18d.png)
 
 **测评结果解读**
 
