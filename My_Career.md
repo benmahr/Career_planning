@@ -177,7 +177,6 @@
 
 ![image](https://user-images.githubusercontent.com/24793419/49337907-f18cf500-f655-11e8-98b1-dda188bc3839.png)
 
-
 ### 2.4 识别自己的模式
 
 ### 2.4.1 
