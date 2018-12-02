@@ -179,7 +179,14 @@
 
 ### 2.4 识别自己的模式
 
-### 2.4.1 
+### 2.4.1 打五人格测试
+
+[测试地址](http://ccpl.psych.ac.cn/PsyMap/quiz/fill/BFI48)
+
+![image](https://user-images.githubusercontent.com/24793419/49339636-dc24c480-f66f-11e8-9137-db4d31c74019.png)
+
+- 【高】：尽责性、神经质、外倾性
+- 【低】：宜人性、开放性
 
 
 
